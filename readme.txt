@@ -5,7 +5,7 @@ Diablo is a dungeon crawler that was released by Blizzard in 1996. Despite its
 old age, it is as captivating to play as ever. The game is nowadays considered
 abandonware. Blizzard no longer officially supports it, but with fan-made
 patches it can be made to run under modern versions of Windows. I have used the
-patch available at [1], which works quite well, apart from very rare crashes.
+patch available at [1], which works quite well, apart from rare crashes.
 Playing Diablo on a virtual machine is an alternative.
 
 [1] https://github.com/elishacloud/dxwrapper/wiki/Diablo (cf. Diablo-fix.zip)
@@ -30,7 +30,7 @@ At the end, you will have a character who is at around level 26. It should have
 little difficulty finishing the game. If you want to increase the challenge or
 level up your character further, you will have to use the approach above. The
 differences between single player and multi player have been documented
-extensively elsewhere. Briefly, it works as follows:
+extensively elsewhere. Briefly, it works roughly as follows:
 
 Single - default   : Monsters give 1x experience and have 1x health
 Multi  - normal    :               2x                     2x
