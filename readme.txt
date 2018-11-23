@@ -14,7 +14,7 @@ Playing Diablo on a virtual machine is an alternative.
 This repository contains a backup of some of my Diablo (v. 1.09) characters:
 
 multi_0.sv  : Warrior (lv. 30)
-single_0.sv : Warrior (lv. 36) -> defeated final boss on Nightmare difficulty
+single_0.sv : Warrior (lv. 38) -> defeated final boss on Hell difficulty
 
 The multi player character is needed to set the game to a higher difficulty in
 the single player mode. This works via an undocumented but well-known feature:
