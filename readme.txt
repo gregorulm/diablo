@@ -12,9 +12,10 @@ Playing Diablo on a virtual machine is an alternative.
 
 
 This repository contains a backup of some of my Diablo (v. 1.09) characters:
-
+    
 multi_0.sv  : Warrior   (lv. 30)
-single_0.sv : Warrior   (lv. 40) -> defeated final boss on Hell difficulty
+single_0.sv : Warrior   (lv. 40) -> beat game on Hell
+single_1.sv : Rogue     (lv. 31) ->     ...      Nightmare
 
 All characters are legitimate, i.e. all equipment was found in the dungeon or
 acquired in-game, i.e. "solo self-found", for Diablo nerds. I did not "hack"
