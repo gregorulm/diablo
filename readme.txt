@@ -13,7 +13,7 @@ This repository contains a backup of some of my Diablo (v. 1.09) characters:
     
 multi_0.sv  : Warrior / lv. 30
 single_0.sv : Warrior / lv. 40 / game beaten on Hell (x2)
-single_1.sv : Rogue   / lv. 37 /       ...      Hell (x1)
+single_1.sv : Rogue   / lv. 38 /       ...      Hell (x2)
 
 All characters are legitimate, i.e. all equipment was found in the dungeon or
 acquired in-game. Genre aficionados refer to this as "solo self-found". I did
