@@ -4,22 +4,20 @@ Diablo: Save States
 Diablo is a dungeon crawler that was released by Blizzard in 1996. Despite its
 old age, it is as captivating to play as ever. The game is nowadays considered
 abandonware. Blizzard no longer officially supports it, but with fan-made
-patches it can be made to run under modern versions of Windows. I have used the
+patches it can be made to run on modern versions of Windows. I have used the
 patch available at [1], which works quite well, apart from rare crashes.
 Playing Diablo on a virtual machine is an alternative.
-
 [1] https://github.com/elishacloud/dxwrapper/wiki/Diablo (cf. Diablo-fix.zip)
-
 
 This repository contains a backup of some of my Diablo (v. 1.09) characters:
     
-multi_0.sv  : Warrior   (lv. 30)
-single_0.sv : Warrior   (lv. 40) -> beat game on Hell
-single_1.sv : Rogue     (lv. 31) ->     ...      Nightmare
+multi_0.sv  : Warrior / lv. 30
+single_0.sv : Warrior / lv. 40 / game beaten on Hell (x2)
+single_1.sv : Rogue   / lv. 37 /       ...      Hell (x1)
 
 All characters are legitimate, i.e. all equipment was found in the dungeon or
-acquired in-game, i.e. "solo self-found", for Diablo nerds. I did not "hack"
-any characters, nor did I exploit the duplication glitch.
+acquired in-game. Genre aficionados refer to this as "solo self-found". I did
+not "hack" any characters, nor did I exploit the duplication glitch.
 
 The multi player character is needed to set the game to a higher difficulty in
 the single player mode. This works via an undocumented but well-known feature:
@@ -28,7 +26,8 @@ the single player mode. This works via an undocumented but well-known feature:
 2) Exit that game and, without quitting Diablo, start (or load) a single player
    game
 3) As a consequence, for the duration of the current session, the single player
-   game will be played according to the characteristics of a multiplayer game
+   game will be set to the characteristics of a multiplayer game of the chosen
+   difficulty
 
 The default single player mode is quite manageable with a straight play-through.
 At the end, you will have a character who is at around level 26. It should have
