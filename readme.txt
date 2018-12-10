@@ -10,10 +10,11 @@ Playing Diablo on a virtual machine is an alternative.
 [1] https://github.com/elishacloud/dxwrapper/wiki/Diablo (cf. Diablo-fix.zip)
 
 This repository contains a backup of some of my Diablo (v. 1.09) characters:
-    
-multi_0.sv  : Warrior / lv. 30
-single_0.sv : Warrior / lv. 40 / game beaten on Hell (x2)
-single_1.sv : Rogue   / lv. 38 /       ...      Hell (x2)
+
+multi_0.sv  : Warrior  / lv. 30
+single_0.sv : Warrior  / lv. 40 / game beaten on Hell (x2)
+single_1.sv : Rogue    / lv. 38 /       ...      Hell (x2)
+single_2.sv : Sorcerer / lv. 32 /       ...      Nightmare (x1)
 
 All characters are legitimate, i.e. all equipment was found in the dungeon or
 acquired in-game. Genre aficionados refer to this as "solo self-found". I did
